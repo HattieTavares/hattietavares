@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/82660400/167530214-5b6872db-ddaf-48fb-96ce-e926d61fe819.png" alt= "banner with my logo">
 <h1 align="center">Hi 👋, I'm Hattie</h1>
 <h3 align="center">I'm a detail driven, coffee fueled, software engineer.</h3>
 
