@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hattietavares&label=Profile%20views&color=0e75b6&style=flat" alt="hattietavares" /> </p>
 
-- 🔭 I’m currently working on [Matsi](https://github.com/HattieTavares/Matsi)
+- 🔭 I’m currently working on [Homeschool Dash](https://github.com/HattieTavares/Homeschool-Dash)
 
 - 👨‍💻 View my portfolio [https://hattietavares.netlify.app](https://hattietavares.netlify.app)
 
