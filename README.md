@@ -1,21 +1,22 @@
 <img src="https://user-images.githubusercontent.com/82660400/167530214-5b6872db-ddaf-48fb-96ce-e926d61fe819.png" alt= "banner with my logo">
 <h1 align="center">Hi, I'm Hattie!</h1>
-<h3 align="center">I'm a detail driven, coffee fueled, software engineer.</h3>
+<h3 align="center">I'm a detail driven, coffee fueled, Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hattietavares&label=Profile%20views&color=0e75b6&style=flat" alt="hattietavares" /> </p>
 
+- 🔭 I’m currently working on: [Shake-It](https://github.com/HattieTavares/shake-it)
 
-- 🔭 I’m currently working on [Homeschool Dash](https://github.com/HattieTavares/Homeschool-Dash)
+- 🌱 I’m currently learning: **React**
 
-- 🌱 I’m currently learning **React**
+- 👨‍💻 View my portfolio: [https://hattietavares.netlify.app](https://hattietavares.netlify.app)
 
-- 👨‍💻 View my portfolio [https://hattietavares.netlify.app](https://hattietavares.netlify.app)
+- 📝 I regularly write articles on: [https://hattietavares.hashnode.dev/](https://hattietavares.hashnode.dev/)
 
-- 📝 I regularly write articles on [https://hattietavares.hashnode.dev/](https://hattietavares.hashnode.dev/)
+- 📫 How to reach me: **hattietavares@gmail.com**
 
-- 📫 How to reach me **hattietavares@gmail.com**
+- 📄 Hiring? I'm open to new opportunities: [Download My Resume](https://hattietavares.netlify.app/Hattie-Tavares-Resume.pdf)
 
-- ⚡ Fun fact **I collect yarn and art supplies**
+- ⚡ Fun fact: **I collect yarn and art supplies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
