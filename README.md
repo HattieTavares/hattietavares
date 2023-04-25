@@ -10,11 +10,11 @@
 
 - 👨‍💻 View my portfolio: [https://hattietavares.netlify.app](https://hattietavares.netlify.app)
 
-- 📝 I regularly write articles on: [https://hattietavares.hashnode.dev/](https://hattietavares.hashnode.dev/)
+- 📝 I write articles on: [https://hattietavares.hashnode.dev/](https://hattietavares.hashnode.dev/)
 
 - 📫 How to reach me: **hattietavares@gmail.com**
 
-- 📄 Hiring? I'm open to new opportunities: [Download My Resume](https://hattietavares.netlify.app/Hattie-Tavares-Resume.pdf)
+- 📄 Hiring? I'm open to new opportunities: [Download My Resume](https://hattietavares.netlify.app/01HattieTavaresResume.pdf)
 
 - ⚡ Fun fact: **I collect yarn and art supplies**
 
