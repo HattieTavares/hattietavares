@@ -16,7 +16,7 @@
 
 - 📄 Hiring? I'm open to new opportunities: [Download My Resume](https://hattietavares.netlify.app/01HattieTavaresResume.pdf)
 
-- ⚡ Fun fact: **I collect yarn and art supplies**
+- ⚡ Fun fact: **I collect art supplies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
